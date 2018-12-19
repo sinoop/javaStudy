@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Models/Models.iml" filepath="$PROJECT_DIR$/Models/Models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPatterns/designPatterns.iml" filepath="$PROJECT_DIR$/designPatterns/designPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerRank/hackerRank.iml" filepath="$PROJECT_DIR$/hackerRank/hackerRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8Features/java8Features.iml" filepath="$PROJECT_DIR$/java8Features/java8Features.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaStudy.iml" filepath="$PROJECT_DIR$/.idea/javaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiThreading/multiThreading.iml" filepath="$PROJECT_DIR$/multiThreading/multiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectRelated/objectRelated.iml" filepath="$PROJECT_DIR$/objectRelated/objectRelated.iml" />
     </modules>
   </component>
 </project>

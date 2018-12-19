@@ -11,7 +11,7 @@ public class FunctionalInterface {
                     .map(x -> new StringBuilder(String.valueOf(x)).reverse().toString())
                     .collect(Collectors.joining(" "));
 
-        
+
         System.out.println(f.getReversed("This is a test"));
 
 
