@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMessaging/JavaMessaging.iml" filepath="$PROJECT_DIR$/JavaMessaging/JavaMessaging.iml" />
       <module fileurl="file://$PROJECT_DIR$/Models/Models.iml" filepath="$PROJECT_DIR$/Models/Models.iml" />
       <module fileurl="file://$PROJECT_DIR$/designPatterns/designPatterns.iml" filepath="$PROJECT_DIR$/designPatterns/designPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/hackerRank/hackerRank.iml" filepath="$PROJECT_DIR$/hackerRank/hackerRank.iml" />

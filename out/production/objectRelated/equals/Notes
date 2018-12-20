@@ -5,3 +5,8 @@
    and so you're left with the Object#equals(Object o) method. Per the Object API this is the same as ==; that is, it returns true
    if and only if both variables refer to the same object, if their references are one and the same. Thus you will be testing
    for object equality and not functional equality.
+
+
+Contract between Equals and HashCode Function:
+• If two objects are equal according to the equals(Object) method,
+  then calling the hashcode() method on each of the two objects must produce the same integer result.

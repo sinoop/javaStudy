@@ -8,4 +8,5 @@
 
 
 Contract between Equals and HashCode Function:
-•
+• If two objects are equal according to the equals(Object) method,
+  then calling the hashcode() method on each of the two objects must produce the same integer result.
