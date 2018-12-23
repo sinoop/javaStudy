@@ -1,8 +1,8 @@
 package equals;
 
-import model.Address;
-import model.Employee;
-import model.Name;
+import model.employee.Address;
+import model.employee.Employee;
+import model.employee.Name;
 
 public class TestEqualsAndHashCode {
     public static void main(String[] args) {
